@@ -12,5 +12,4 @@ Lmk if u have any ideas u want to see in the mod (github issues)
 
 ## **DO NOT MESSAGE MY DISCORD, I will not reply as I get a ton of messages**
 
-Images:
 ![image](https://github.com/user-attachments/assets/e7886c1e-8e23-4e38-ab62-b57fbe697c29)
