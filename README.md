@@ -1,11 +1,1 @@
-## Description
-A prison mod for map 11 that has a few cheats and tools
 
-### Short list of cheats:
-* Auto fishing (automatic bait dropping)
-* Semi chest highlighting (only works with right clicking to loot)
-* Auto announcement
-* Watchlist (add players to a list and see when they join)
-* Balance tracking (commands .track .endtrack .lap)
-
-Lmk if u have any ideas u want to see in the mod (github issues/discord)
